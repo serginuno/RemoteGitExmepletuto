@@ -10,7 +10,7 @@ package sergi;
  * @author guest-p6gk9z
  */
 public class Sergi {
-
+int num =0;
     /**
      * @param args the command line arguments
      */
